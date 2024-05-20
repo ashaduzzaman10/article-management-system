@@ -266,3 +266,10 @@ response
 ```markdown
 1. write here
 ```
+
+
+
+
+## mock 
+  - description: SwaggerHub API Auto Mocking
+    url: https://virtserver.swaggerhub.com/thebluesky/ariticle-management-system/1.0.0
